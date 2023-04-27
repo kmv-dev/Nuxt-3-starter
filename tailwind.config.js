@@ -1,0 +1,38 @@
+module.exports = {
+  theme: {
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'white': '#ffffff',
+      'total-black': '#0C0C0C',
+      'red': '#FF1A53',
+      'orange': '#F45E41',
+      'yellow': '#FFB838',
+      'blue': '#1B53D6',
+      'blue-light': '#0099CD',
+      'purple': '#B5448E',
+      'violet': '#9F9DFF',
+      'nft': '#7FDD06',
+      'img-dark': 'rgba(#000, 50%)',
+      'dark-back': 'rgba(#000, 72%)',
+      'gradient-green': 'linear-gradient(145.77deg, #8AD357 41.97%, #65B064 98.37%)',
+      'gradient-premium': 'linear-gradient(180deg, #FF45B5 0%, rgba(110, 46, 245, 0) 100%), #6E2EF5',
+      'gradient-plus': 'linear-gradient(180deg, #6945F8 0%, rgba(57, 69, 194, 0) 100%), #1B53D6',
+      'gradient-dark': 'linear-gradient(360deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 114%)',
+      'blue-10': '#D6E4FA',
+      'white-dark-theme': '#E3E3E3',
+      'white-light-theme': '#F8F9F9',
+      'gray-100': '#F8F9F9',
+      'gray-150': '#E8EBEB',
+      'gray-200': '#C6C8CE',
+      'gray-300': '#979797',
+      'gray-400': '#414141',
+      'gray-600': '#363636',
+      'gray-650': '#272727',
+      'gray-700': '#222222',
+      'gray-800': '#1B1B1B',
+      'gray-900': '#1E1E1F',
+      'gray-960': '#121212',
+    }
+  }
+}

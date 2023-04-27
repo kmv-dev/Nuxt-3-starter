@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Onest';
+  src: local("Onest-Thin"), local("Onest-Web"), local("OnestWeb"),
+    url('/fonts/Onest-Thin.woff2') format('woff2'),
+    url('/fonts/Onest-Thin.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Onest';
+  src: local("Onest-Light"), local("Onest-Web"), local("OnestWeb"),
+    url('/fonts/Onest-Light.woff2') format('woff2'),
+    url('/fonts/Onest-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Onest';
+  src: local("Onest-Regular"), local("Onest-Web"), local("OnestWeb"),
+    url('/fonts/Onest-Regular.woff2') format('woff2'),
+    url('/fonts/Onest-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Onest';
+  src: local("Onest-Medium"), local("Onest-Web"), local("OnestWeb"),
+    url('/fonts/Onest-Medium.woff2') format('woff2'),
+    url('/fonts/Onest-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Onest';
+  src: local("Onest-Bold"), local("Onest-Web"), local("OnestWeb"),
+    url('/fonts/Onest-Bold.woff2') format('woff2'),
+    url('/fonts/Onest-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Onest';
+  src: local("Onest-ExtraBold"), local("Onest-Web"), local("OnestWeb"),
+    url('/fonts/Onest-ExtraBold.woff2') format('woff2'),
+    url('/fonts/Onest-ExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
